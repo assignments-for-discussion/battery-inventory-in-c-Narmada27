@@ -27,7 +27,7 @@ void testBucketingByNumberOfCycles() {
     {
       printf("%d",lowCount);
     }
-    else if((chargeCycleCounts[i]>410)&&chargeCycleCounts[i[<909)
+    else if((chargeCycleCounts[i]>410)&&(chargeCycleCounts[i[<909))
     {
       printf("%d",mediumCount);
     }
